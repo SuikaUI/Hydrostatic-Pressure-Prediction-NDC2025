@@ -1,4 +1,4 @@
-# 🌊 Regression Rumble NDC 2025 - Hydrostatic Pressure Prediction
+# Regression Rumble NDC 2025 - Hydrostatic Pressure Prediction
 
 ## Competition Results
 **RANK 2 ACHIEVED** out of **100+ teams** on the Private Leaderboard!
